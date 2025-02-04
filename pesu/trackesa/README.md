@@ -1,19 +1,38 @@
-# ESA Tracker
+# ESA Tracker - Hacker Style System Tracker
 
-ESA Tracker is a terminal-like GUI tool built using Python's tkinter library. It provides a simple system to track and visualize progress on subjects and units, while also offering interactive elements like motivation messages and hacking-themed status updates. The interface simulates a hacking environment with animated text and glitch effects to enhance user experience.
+ESA Tracker is a fun, hacker-style system to track progress on subjects and units. Built with Tkinter, it has a cyber-themed interface with motivational messages and a simulated "hacking" terminal.
 
-## Features:
-- **Track Subject Progress**: Mark completion for different subjects and units.
-- **Motivational Messages**: Get random motivational messages to keep you going.
-- **Terminal-style Hacking Simulation**: Visual progress displayed with hacking-themed animations and glitch effects.
-- **Real-time Status Update**: Visual feedback of progress for each subject and unit.
+## Features
 
-## Setup:
-1. Clone this repository.
-2. Make sure Python 3.x is installed on your system.
-3. Install tkinter if it's not already installed.
-4. Run the script to launch the ESA Tracker.
+- **Cyber Design**: Metallic colors and matrix effects for a hacker look.
+- **Progress Tracking**: Mark progress with checkboxes for subjects and units.
+- **Motivational Messages**: Get random encouraging messages.
+- **Hacker Simulation**: Animated "hacking" status with glitchy text.
 
-## Usage:
-- **<CHECK_STATUS/>**: Display a hacking-style progress report for each subject and unit.
-- **<MOTIVATION/>**: Get a motivational message to keep you on track.
+## How to Use
+
+1. Clone the repo.
+2. Install Python and Tkinter.
+3. Run the app to start tracking your subjects and units.
+
+### Buttons
+
+- **`<CHECK_STATUS/>`**: Shows your progress in a simulated status report.
+- **`<MOTIVATION/>`**: Displays a random motivational message.
+
+## Color Scheme
+
+- **Background**: Dark black
+- **Chrome Colors**: Light, medium, and dark chrome shades
+- **Terminal Green**: Matrix-style green
+- **Text**: White
+
+## Future Ideas
+
+- Save and load progress across sessions.
+- Let users add custom subjects or units.
+- Add more effects and animations.
+
+## License
+
+MIT License - feel free to contribute or make improvements.
