@@ -1,6 +1,6 @@
-# ESA Tracker - Hacker Style System Tracker
+# trackesa - Hacker Style ESA Tracker
 
-ESA Tracker is a fun, hacker-style system to track progress on subjects and units. Built with Tkinter, it has a cyber-themed interface with motivational messages and a simulated "hacking" terminal.
+trackesa is a fun, hacker-style system to track progress on subjects and units. Built with Tkinter, it has a cyber-themed interface with motivational messages and a simulated "hacking" terminal.
 
 ## Features
 
