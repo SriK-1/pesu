@@ -4,7 +4,7 @@ ESA Tracker is a fun, hacker-style system to track progress on subjects and unit
 
 ## Features
 
-- **Cyber Design**: Metallic colors and matrix effects for a hacker look.
+- **Cyber Design**: Metallic colors and Matrix [the iconic green falling letters] inspired effects.
 - **Progress Tracking**: Mark progress with checkboxes for subjects and units.
 - **Motivational Messages**: Get random encouraging messages.
 - **Hacker Simulation**: Animated "hacking" status with glitchy text.
